@@ -1,0 +1,45 @@
+#judul{
+    color: rgb(0, 206, 86);
+    font-size: 70px;
+}
+
+#subjudul{
+    color: rgb(0, 113, 206);
+    font-size: 30px;
+}
+
+body{
+    background-image: url("background2.png");
+    font-family: 'Bauhaus 93';
+}
+
+#prolog{
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#say{
+    font-size: 30px;
+    color: whitesmoke;
+    background-color: blueviolet;
+    max-width: 1200px;
+    font-family: 'Bauhaus 93';
+}
+
+.bio{
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#photo{
+    text-align: center;
+}
+
+.tag{
+    font-size: 24px;
+    text-decoration: underline;
+}
